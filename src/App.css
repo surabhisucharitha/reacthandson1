@@ -1,0 +1,17 @@
+.S{
+width:100%;
+heigth:100px;
+display:flex;
+justify-content: space-evenly;
+margin:10px;
+}
+.out{
+  display:flex;
+justify-content: space-evenly;
+margin:10px;
+}
+h1{
+  text-align: center;
+  text-shadow: 5px 5px 5px blue;
+
+}

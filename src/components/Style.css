@@ -1,0 +1,70 @@
+.para{
+    color:red;
+  }
+  body{
+        background: linear-gradient(rgba(207,246,250,1), rgba(246,170,217,1), rgba(249,249,249,1));
+        background-repeat: no-repeat;
+        height:100vh;
+        overflow-y:hidden;
+        
+  }
+  .box{
+    border:2px solid black;
+    width:480px;
+    height:200px;
+    position:relative;
+    background-color:aqua ;
+    text-align: center;
+    top: 235px;
+    left:180px;
+  }
+  .box1{
+    border:2px solid black;
+    width:480px;
+    height:200px;
+    position:absolute;
+    background-color:aqua ;
+    text-align: center;
+    bottom:190px;
+    left: 50px;
+  
+  }
+  .funcbutton{
+    border:2px solid black;
+    height:50px;
+    border-radius: 30px;
+    font-size: 15px;
+    text-align:center ;
+    position:relative;
+    top:50px;
+    left:30px;
+  }
+  .classbutton{
+    border:2px solid black;
+    height:50px;
+    border-radius: 30px;
+    font-size: 15px;
+    text-align:center ;
+    position:relative;
+    top:50px;
+    left:30px;
+  }
+  .S{
+    width:100%;
+    heigth:100px;
+    display:flex;
+    justify-content: space-evenly;
+    margin:10px;
+    }
+    .out{
+      display:flex;
+    justify-content: space-evenly;
+    margin:10px;
+    }
+    h1{
+      text-align: center;
+      text-shadow: 5px 5px 5px blue;
+    
+    }
+  
+  
